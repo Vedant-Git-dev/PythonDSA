@@ -8,15 +8,25 @@ It is organized by topic for easy navigation and practice.
 ## 📂 Folder Structure
 
 python-dsa-practice/
-│
+
+|
+
 ├── arrays/
+
 ├── strings/
+
 ├── linked_list/
+
 ├── stacks/
+
 ├── queues/
+
 ├── trees/
+
 ├── graphs/
+
 └── sorting/
+
 
 ---
 
