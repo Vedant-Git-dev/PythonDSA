@@ -5,7 +5,7 @@ It is organized by topic for easy navigation and practice.
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure (The Plan)
 
 python-dsa-practice/
 
